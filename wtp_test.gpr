@@ -1,0 +1,5 @@
+project Wtp_Test is
+    for Source_Dirs use ("src");
+    for Object_Dir use "obj";
+    for Main use ("wtp_test.adb");
+end Wtp_Test;
